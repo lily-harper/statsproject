@@ -3,4 +3,6 @@ load_libraries <- function() {
     library(tidyverse)
     library(stargazer)
     library(lubridate)
+    library(patchwork)
+    library(zoo)
 }
