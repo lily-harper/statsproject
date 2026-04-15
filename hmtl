@@ -1,0 +1,33 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Wed, Apr 15, 2026 - 07:28:49
+\begin{table}[!htbp] \centering 
+  \caption{} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & ridership \\ 
+\hline \\[-1.8ex] 
+ min\_temp & 191.880 \\ 
+  & (336.694) \\ 
+  & \\ 
+ rain & $-$26,302.940 \\ 
+  & (23,363.830) \\ 
+  & \\ 
+ Constant & 400,581.600$^{***}$ \\ 
+  & (17,517.750) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 2,196 \\ 
+R$^{2}$ & 0.001 \\ 
+Adjusted R$^{2}$ & $-$0.0002 \\ 
+Residual Std. Error & 248,626.400 (df = 2193) \\ 
+F Statistic & 0.768 (df = 2; 2193) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 

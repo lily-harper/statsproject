@@ -5,4 +5,6 @@ load_libraries <- function() {
     library(lubridate)
     library(patchwork)
     library(zoo)
+    library(modelsummary)
+    library(fixest)
 }
