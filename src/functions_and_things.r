@@ -7,4 +7,6 @@ load_libraries <- function() {
     library(zoo)
     library(modelsummary)
     library(fixest)
+    library(fixest)
+    library(modelsummary)
 }
