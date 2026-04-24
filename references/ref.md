@@ -22,3 +22,7 @@ https://www.statology.org/rolling-average-in-r/
 
 1. did  
 https://evalf22.classes.andrewheiss.com/example/diff-in-diff.html
+
+# joining 
+
+1. https://dplyr.tidyverse.org/reference/join_by.html 
