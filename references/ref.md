@@ -42,3 +42,7 @@ https://stackoverflow.com/questions/21563864/ggplot2-overlay-density-plots-r
 2. color hex from MTA open data 
 https://data.ny.gov/Transportation/MTA-Colors/3uhz-sej2/about_data 
 
+# visualizations 
+
+1. overlapping 
+https://stackoverflow.com/questions/21563864/ggplot2-overlay-density-plots-r 
